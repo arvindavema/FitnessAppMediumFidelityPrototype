@@ -1,4 +1,4 @@
-﻿# FitnessApp (MediumFidelityPrototype)
+﻿# FitnessApp (Medium Fidelity Prototype)
 
 ## Overview
 This is a medium fidelity prototype of a fitness tracking application. A medium fidelity prototype of an application has a fully completed layout of the navigation and screens as well as the theme of the app including typography, colors, and icons. The major features of the application are finished however other less important features are not ready. This type of prototype is used to give the basic feel of using the application so that developers can gather input from test users before moving forward with the rest of the applicatiopn. The final fitness application will allow users to track their daily dietary and gym data. The application uses different user provided metrics to calculate helpful information such as visual representations of their progress in the gym or their BMI, and BMR. The application was developed in Android studio using Kotlin. 
