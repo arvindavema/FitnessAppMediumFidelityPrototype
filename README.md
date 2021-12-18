@@ -6,7 +6,7 @@ This is a medium fidelity prototype of a fitness tracking application. A medium 
 ## Home page
 The home page of the application displays useful biometric data such as the their weight, their basal metabolic rate, BMI. The user can update their biometric data by presing the update button. 
 ![alt text](./images/home.png)
-
+<img src="./images/home.png" alt="home" style="width:50% height: 50%;"/>
 A dialog appears over the screen with a form where the user can input their updates. The keyboard appears and does not obstruct the users view of the form.
 
 ![alt text](./images/home2.png)
