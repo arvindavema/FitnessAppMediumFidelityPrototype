@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Charts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="arnold">Arnold</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+</resources>
